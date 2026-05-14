@@ -1,174 +1,122 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</div>
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Halo, Saya Rangga Nf!
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Rangga+Nur+Faizin;Android+Developer+%F0%9F%93%B1;IoT+Engineer+%F0%9F%94%8C;ML+Enthusiast+%F0%9F%A4%96;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;Fullstack+Developer+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Full+Stack+Web+Developer;IoT+Enthusiast;UI%2FUX+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<div align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=RanggaNf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://github.com/RanggaNf?tab=followers">
     <img src="https://img.shields.io/github/followers/RanggaNf?label=Followers&style=social" alt="Followers" />
   </a>
-  <a href="https://github.com/RanggaNf?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/RanggaNf" alt="Repositories" />
-  </a>
-</div>
+</p>
 
 ---
 
-## 👨‍💻 Tentang Saya
+## 🚀 Tentang Saya
 
-```yaml
-nama: Mohamad Rangga Nur Faizin
-lokasi: Indonesia 🇮🇩
-pendidikan: Teknik Elektro
-spesialisasi:
-  - Android Development (Kotlin, Jetpack Compose)
-  - Internet of Things (ESP32, Arduino, Sensor)
-  - Machine Learning (TensorFlow, Keras, TFLite)
-  - Backend Development (Django, REST API)
-  - Web Development (React, Firebase, Tailwind CSS)
-hobi:
-  - Coding 🚀
-  - Building IoT Projects 🔌
-  - Learning New Tech 📚
-  - Reading Manga 📖
-```
+Saya seorang **Web Developer** dan **IoT Enthusiast** dari Indonesia yang passionate dalam membangun aplikasi web modern dan solusi Internet of Things. Saya senang mengeksplorasi teknologi baru dan mengubah ide menjadi produk digital yang bermanfaat.
+
+- 🔭 Saat ini sedang mengerjakan: **Proyek Portofolio & IoT**
+- 🌱 Sedang mempelajari: **Cloud Computing & Firebase**
+- 👯 Ingin berkolaborasi di: **Proyek Open Source Web & IoT**
+- 💬 Tanya saya tentang: **JavaScript, Python, Firebase, IoT, Web Design**
+- 📫 Hubungi saya: **[Email](mailto:emailkamu@gmail.com)**
+- ⚡ Fun fact: **Saya suka desain dan fotografi!**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-
-### 📱 Mobile & Android
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔌 IoT & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-### 🤖 Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### 💻 Backend & Web
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+### 💻 Bahasa Pemrograman
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Tools
+### 🌐 Web Development
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-</div>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RanggaNf&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaNf&layout=compact&theme=radical&hide_border=true&langs_count=10" height="180" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RanggaNf&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaNf&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanggaNf&theme=radical&hide_border=true" height="180" />
-</div>
-
----
-
-## 🚀 Project Unggulan
-
-<div align="center">
-
-| Project | Deskripsi | Tech |
-|---------|-----------|------|
-| [**Smart Glove**](https://github.com/RanggaNf/Smart-Ai-SIgn-Langguage) | Penerjemah Bahasa Isyarat SIBI | TensorFlow, IoT, Arduino |
-| [**BandhaKu**](https://github.com/RanggaNf/BandhaKu) | Manajemen Keuangan Syariah + AI | React, Firebase, AI |
-| [**MotionCountyStory**](https://github.com/RanggaNf/MotionCountyStory) | Platform Cerita Interaktif | JavaScript, Firebase |
-| [**AquariumSmart**](https://github.com/RanggaNf/AquariumSmart) | Monitoring Akuarium IoT | Kotlin, Firebase, IoT |
-| [**Bus Satria App**](https://github.com/RanggaNf/Bus-Satria-App) | Tracking Armada Bus | Kotlin, Firebase, GPS |
-| [**OpenShop API**](https://github.com/RanggaNf/openshop) | Backend E-Commerce REST API | Django, DRF, Python |
-
-</div>
-
----
-
-## 📁 Kategori Project
-
-<table>
-<tr>
-<td width="25%" align="center">
-  <h3>📱 Android</h3>
-  <img src="https://img.shields.io/badge/19_Projects-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</td>
-<td width="25%" align="center">
-  <h3>🔌 IoT</h3>
-  <img src="https://img.shields.io/badge/1_Project-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</td>
-<td width="25%" align="center">
-  <h3>🖥️ Backend</h3>
-  <img src="https://img.shields.io/badge/1_Project-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</td>
-<td width="25%" align="center">
-  <h3>🌐 Website</h3>
-  <img src="https://img.shields.io/badge/8_Projects-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RanggaNf&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RanggaNf&theme=radical&no-frame=true&row=1&column=7" />
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RanggaNf&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanggaNf&theme=react-dark&hide_border=true&area=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanggaNf&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 ---
 
-## 🤝 Let's Connect!
+## 😄 Random Dev Joke
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</p>
+
+---
+
+## ✨ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
+
+---
+
+## 🔗 Hubungi Saya
+
+<p align="left">
   <a href="https://github.com/RanggaNf">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/rangganf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/usernamekamu">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:rangganf@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://instagram.com/usernamekamu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-  <p>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
-  </p>
-  <h3>⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</p>
+
+<!--
+**RanggaNf/RanggaNf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
