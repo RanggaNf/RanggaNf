@@ -26,13 +26,13 @@
     <td width="58%" valign="top">
 
 **Mohamad Rangga Nur Faizin**, mahasiswa **Teknik Elektro** dari Indonesia 🇮🇩.
-Saya suka menjembatani dunia **hardware dan software**: dari sensor ESP32, aplikasi Android, REST API, sampai model machine learning di perangkat.
+Saya suka menjembatani dunia **hardware dan software**: dari sensor ESP32, aplikasi Android, REST API, sampai pipeline machine learning.
 
 | | |
 |:--|:--|
 | 📱 **Mobile** | Kotlin · Jetpack Compose |
 | 🔌 **IoT** | ESP32 · Arduino · Raspberry Pi · MQTT |
-| 🤖 **ML** | TensorFlow · Keras · TFLite |
+| 🤖 **ML & MLOps** | TensorFlow · Keras · TFLite · CI/CD |
 | 🖥️ **Backend** | Django · REST API |
 | 🌐 **Web** | React · Firebase · Tailwind CSS |
 | 📖 **Hobi** | Coding · Bikin proyek IoT · Baca manga |
@@ -76,19 +76,64 @@ Saya suka menjembatani dunia **hardware dan software**: dari sensor ESP32, aplik
 
 <br/>
 
-<a href="https://github.com/RanggaNf/Smart-Ai-SIgn-Langguage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=Smart-Ai-SIgn-Langguage&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
-<a href="https://github.com/RanggaNf/BandhaKu"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=BandhaKu&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
-<a href="https://github.com/RanggaNf/MotionCountyStory"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=MotionCountyStory&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
-<a href="https://github.com/RanggaNf/AquariumSmart"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=AquariumSmart&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
-<a href="https://github.com/RanggaNf/Bus-Satria-App"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=Bus-Satria-App&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
-<a href="https://github.com/RanggaNf/openshop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RanggaNf&repo=openshop&theme=tokyonight&hide_border=true&title_color=3DDC84&icon_color=4285F4&border_radius=14" width="48%" /></a>
+<table>
+  <tr>
+    <th align="left">Project</th>
+    <th align="left">Deskripsi</th>
+    <th align="left">Tech</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/SmartGloveApp"><b>Smart Glove SIBI</b></a></td>
+    <td>Penerjemah bahasa isyarat SIBI berbasis sensor flex dan machine learning</td>
+    <td>Kotlin · TFLite · IoT</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/pltmhiotdadang"><b>PLTMH IoT Monitoring</b></a></td>
+    <td>Monitoring arus, tegangan, dan daya PLTMH secara real-time</td>
+    <td>Kotlin · Firebase · IoT</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/AquariumSmart"><b>AquariumSmart</b></a></td>
+    <td>Monitoring dan kontrol akuarium pintar (suhu, pH, kekeruhan)</td>
+    <td>Kotlin · Firebase · IoT</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/eco-report-mobile"><b>EcoReport</b></a></td>
+    <td>Aplikasi pelaporan lingkungan: mobile, backend, dan model ML</td>
+    <td>Kotlin · JS · Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/openshop"><b>OpenShop API</b></a></td>
+    <td>REST API e-commerce dengan autentikasi dan soft delete</td>
+    <td>Django · DRF · Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/Workflow-CI-v2"><b>MLOps Churn</b></a></td>
+    <td>Sistem ML end-to-end dengan workflow CI/CD</td>
+    <td>Python · CI/CD · ML</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/student-performance-prediction-rangga"><b>Student Dropout</b></a></td>
+    <td>Prediksi dropout siswa untuk Jaya Jaya Institut</td>
+    <td>Python · Jupyter · ML</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/RanggaNf/MotionCountyStory"><b>MotionCountyStory</b></a></td>
+    <td>Platform cerita interaktif dengan sistem chapter dan admin panel</td>
+    <td>JavaScript · Firebase</td>
+  </tr>
+</table>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📱_Android-19_Projects-3DDC84?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌐_Website-8_Projects-61DAFB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔌_IoT-1_Project-00979D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🖥️_Backend-1_Project-092E20?style=for-the-badge" />
+<a href="https://github.com/RanggaNf?tab=repositories"><img src="https://img.shields.io/badge/Lihat_Semua_47_Repository-3DDC84?style=for-the-badge&logo=github&logoColor=black" /></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📱_Android-24+_Projects-3DDC84?style=flat-square" />
+<img src="https://img.shields.io/badge/🌐_Web-6+_Projects-4285F4?style=flat-square" />
+<img src="https://img.shields.io/badge/🤖_ML_&_MLOps-6+_Projects-00BFA5?style=flat-square" />
+<img src="https://img.shields.io/badge/🔌_IoT-4+_Projects-00979D?style=flat-square" />
 </div>
 
 <br/>
@@ -125,8 +170,8 @@ Saya suka menjembatani dunia **hardware dan software**: dari sensor ESP32, aplik
 
 Terbuka untuk kolaborasi, diskusi, dan peluang baru seputar **Android, IoT, dan AI**.
 
-<a href="https://linkedin.com/in/rangganf"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:rangganf@example.com"><img src="https://img.shields.io/badge/Kirim_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ranggfaziii"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohammad.rangga.n.f@gmail.com"><img src="https://img.shields.io/badge/Kirim_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
