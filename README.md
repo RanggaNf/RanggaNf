@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:3DDC84,50:00BFA5,100:4285F4&height=240&section=header&text=Rangga%20Nur%20Faizin&fontSize=54&fontColor=ffffff&fontAlignY=42&desc=Android%20%C2%B7%20IoT%20%C2%B7%20Machine%20Learning%20%C2%B7%20Fullstack&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:3DDC84,50:00BFA5,100:4285F4&height=240&section=header&text=Mohamad%20Rangga%20Nur%20Faizin&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Android%20%C2%B7%20IoT%20%C2%B7%20Machine%20Learning%20%C2%B7%20Fullstack&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="header" />
 
   <a href="https://ranggaportfo.web.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3DDC84&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Rangga;Membangun+aplikasi+Android+modern;Merangkai+IoT+dari+sensor+ke+cloud;Melatih+model+ML+untuk+dunia+nyata;Turning+ideas+into+code%2C+one+commit+at+a+time" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=3DDC84&center=true&vCenter=true&width=640&height=45&lines=Halo%2C+saya+Mohamad+Rangga+Nur+Faizin;Membangun+aplikasi+Android+modern;Merangkai+IoT+dari+sensor+ke+cloud;Melatih+model+ML+untuk+dunia+nyata;Turning+ideas+into+code%2C+one+commit+at+a+time" alt="typing" />
   </a>
 
   <br/><br/>
@@ -142,13 +142,6 @@ Saya suka menjembatani dunia **hardware dan software**: dari sensor ESP32, aplik
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RanggaNf&theme=tokyo-night&hide_border=true&area=true&color=3DDC84&line=4285F4&point=ffffff&bg_color=1a1b27&custom_title=Contribution%20Graph" width="95%" />
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RanggaNf/RanggaNf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RanggaNf/RanggaNf/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RanggaNf/RanggaNf/output/github-contribution-grid-snake.svg" width="95%" />
-</picture>
 </div>
 
 <br/>
